@@ -1,5 +1,7 @@
 # newbie-git-seminar-2024f
 Newbie Git seminar 과제입니다.
+깃에 자기 자신만의 프로필을 만들어서 올려봅시다!
+
 
 # Requisites
 이 과제에서는 다음과 같은 기능들을 구현/사용하게 됩니다.
@@ -10,6 +12,9 @@ Newbie Git seminar 과제입니다.
     - 자신이 작업할 Branch를 생성합니다.
 - [ ] **Issue와 Branch 연결하기**
     - 자신에게 할당된 Issue에 대해 작업중인 Branch를 연결하여 작업 현황을 보여줍니다.
+- [ ] **Branch에 Commit하기**
+    - 자기 닉네임으로 폴더를 생성한 후 안에 README.md를 작성합니다
+    - 간단한 자기 소개 페이지를 만들어봅시다.
 - [ ] **PR 만들기**
     - dev 브랜치에 통합될 수 있도록 PR을 생성합니다.
     - Assignee는 자기 자신, Reviewer는 Roul로 해주시면 됩니다.
